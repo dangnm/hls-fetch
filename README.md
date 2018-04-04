@@ -72,6 +72,7 @@ Requirements
 
 Usage
 -----
+sudo cpan JSON
 
 All you need to specify on the command line is the URL to fetch.
 hls-fetch will download the page and look for a <video> tag.
